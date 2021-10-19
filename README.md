@@ -9,7 +9,7 @@ Brochures
 https://github.com/DECO3500-YYDS/virtual-tour/wiki#brochures
 
 Kickstarter Video  
-
+https://github.com/DECO3500-YYDS/virtual-tour/wiki#kickstarter-video
 
 # Documentation
 https://github.com/DECO3500-YYDS/virtual-tour/wiki
