@@ -3480,7 +3480,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7cfba58998b12f24f9c7578fa2ac4ad7, type: 3}
       propertyPath: m_Name
-      value: xini
+      value: "\u6FB3\u5927\u5229\u4E9A\u6089\u5C3C\u6B4C\u5267\u9662"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7cfba58998b12f24f9c7578fa2ac4ad7, type: 3}
